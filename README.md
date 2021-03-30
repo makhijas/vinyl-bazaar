@@ -1,6 +1,6 @@
 # Vinyl Bazaar
 
-#### User Stories
+### User Stories
 1. Two types of users: Buyer and Seller
 2. Buyer and seller are able to Signup 
 3. Buyer and seller are able to Login
@@ -11,3 +11,10 @@
 8. Buyer is able to delete or update their bounty
 9. Seller is able to search for albums that have bounties 
 10. Seller is able to contact buyer and initiate transaction off of platform
+
+
+### Link to Wire Frame
+https://www.figma.com/file/G3tTyPxTha2wuZrSAC3kIz/Vinyl-Bazaar?node-id=0%3A1
+
+### Link to ORM 
+

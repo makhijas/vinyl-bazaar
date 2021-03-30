@@ -17,4 +17,5 @@
 https://www.figma.com/file/G3tTyPxTha2wuZrSAC3kIz/Vinyl-Bazaar?node-id=0%3A1
 
 ### Link to ORM 
+https://lucid.app/lucidchart/invitations/accept/a5c51331-4ef0-4c9c-bbc2-852056b03c98?viewport_loc=81%2C-35%2C1579%2C797%2C0_0
 
